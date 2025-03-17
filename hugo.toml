@@ -1,4 +1,4 @@
-baseURL = "/testing-gokarna/"
+baseURL = "/testing-gokarna"
 defaultContentLanguage = "en"
 enableEmoji = true
 enableRobotsTXT = true
